@@ -11,7 +11,7 @@ const Welcome = () => {
           Roco
         </Text>
         <CustomButton
-          title="Iniciar Sesión"
+          title="Iniciar sesión con google"
           handlePress={() => router.push("/sign-in")}
           containerStyles="w-full mt-7"
         />

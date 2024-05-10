@@ -10,7 +10,7 @@ const SignIn = () => {
     <SafeAreaView className="bg-primary h-full">
       <View className="w-full flex justify-center items-center h-full px-4">
         <Text style={{ fontFamily: "RocknRollOne-Regular", fontSize: 60 }}>
-          fasdfadsfsad
+          Roco
         </Text>
         <CustomButton
           title="Iniciar Sesión"
